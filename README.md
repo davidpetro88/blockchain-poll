@@ -1,5 +1,5 @@
 # BlockchainPoll
-Poc Angular + 12 + web3 + Smart Contract Ethereum
+Poc Angular 12 + web3 + Smart Contract Ethereum
 
 ### Deploy Contract
 ![](image/deploy-contract.png)
